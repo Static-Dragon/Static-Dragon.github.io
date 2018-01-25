@@ -3,7 +3,7 @@ var zip = 32907;
 var weather = {};
 
 var constructURL = function(zipcode) {
-  return "http://api.openweathermap.org/data/2.5/weather?zip=" + zipcode + ",us" + "&APPID="
+  return "https://api.openweathermap.org/data/2.5/weather?zip=" + zipcode + ",us" + "&APPID="
   + key + "&units=imperial";
 };
 
