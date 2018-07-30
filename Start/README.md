@@ -13,10 +13,3 @@ Example search
 /r/linux github
 ```
 Would search the Linux subreddit for the word "github". 
-
-### In progress: 
-* add weather summary below greeting
-
-<p align="center">
-  <img src="homepage.png" alt="A picture of my homepage"/>
-</p>
